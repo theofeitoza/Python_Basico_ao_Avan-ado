@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Python Modulo 1"
+		},
+		{
+			"path": "../Python Modulo 2"
+		},
+		{
+			"path": "../Python Modulo 3"
+		}
+	],
+	"settings": {
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.autopep8"
+		},
+		"python.formatting.provider": "none"
+	}
+}
