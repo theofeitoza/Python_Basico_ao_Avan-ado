@@ -12,4 +12,4 @@ def parouimpar(numero):
         return f'{numero} é par'
     return f'{numero} é impar'
 
-print(parouimpar(2))
+print(parouimpar(multiplicação))
